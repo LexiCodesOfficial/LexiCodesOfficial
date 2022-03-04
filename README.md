@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on learning many languages and a game!
 - 🌱 I develop cool bots for discord, games, websites etc!
 - 👯 I'm currently developing a game
-- ⚡ Fun fact: I am a pro gamer xD
+- ⚡ Fun fact: I am an idiot sometimes xD
 
 ### Languages and tool i use:
 
@@ -18,10 +18,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Drstrange GitHub Stats](https://github-readme-stats.vercel.app/api?username=lexicodesofficial)](https://github.com/anuraghazra/github-readme-stats)
-
-[youtube]: https://www.youtube.com/channel/UCmTSEzt4h1S4MiCM1grWu9g
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?
-[cssplaylist]: https://www.youtube.com/playlist?
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+(https://github-readme-stats.vercel.app/api?username=lexicodesofficial)](https://github.com/anuraghazra/github-readme-stats)
