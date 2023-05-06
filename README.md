@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning `Java / Kotlin`
 
-- 👯 I’m looking to collaborate for `Dev Projects`
+- 👯 I’m looking to collaborate in `Dev Projects`
 
 - 🤔 I’m looking for help with `Programming`
 
