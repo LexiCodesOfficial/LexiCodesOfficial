@@ -13,7 +13,3 @@ I'm a **full-stack software developer**.
 
 and many more!
 </details>
-
-#### 📈 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LexiCodesOfficial&count_private=true&theme=dark&show_icons=true)
