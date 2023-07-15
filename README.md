@@ -2,8 +2,6 @@
 
 I'm a **full-stack software developer**.
 
-* 🔍 Learn more about me [here]((https://lexicodes.net))
-
 #### Want to know more?
 <details>
 <summary><b>🛠️ Languages & Tools</b></summary>
