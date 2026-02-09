@@ -12,7 +12,7 @@ $$$$$$$$\\$$$$$$  |$$ | \$$ |$$ |  $$ |$$ |  $$ |$$$$$$$  |$$$$$$\    $$ |
 
 # Hey there 👋
 
-I’m **Lexi Codes**, mad tinkerer, developer, and the mind behind **Lunarbit Studios**.  
+I’m **LexiCodes**, mad tinkerer, developer, and the mind behind **Lunarbit Studios**.  
 Currently coding in the shadows and forging secret projects… but a few things are out in the wild.  
 
 ## 🛠 Skills & Stack
@@ -24,9 +24,6 @@ Currently coding in the shadows and forging secret projects… but a few things 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-**Tools & Platforms:**  
-Docker, Flask, PyMuPDF, Git, GitHub Actions, Proxmox, pfSense, TrueNAS, ESXi, Blender, Lodestone, Fabric/Quilt, Minecraft modding, bash/powershell scripting, Homelab tinkering  
 
 ## 🚀 Featured Projects
 
