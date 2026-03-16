@@ -12,12 +12,12 @@ $$$$$$$$\\$$$$$$  |$$ | \$$ |$$ |  $$ |$$ |  $$ |$$$$$$$  |$$$$$$\    $$ |
 
 # Hey there 👋
 
-I’m **LexiCodes**, mad tinkerer, developer, and the mind behind **Lunarbit Studios**.  
-Currently coding in the shadows and forging secret projects… but a few things are out in the wild.  
+I’m **LexiCodes** — tinkerer, coder, and the brains behind **Lunarbit Studios**.  
+I spend most of my time building wild projects in the shadows, though a few are already out there for curious eyes.
 
-## 🛠 Skills & Stack
+## What I work with
 
-**Languages & Frameworks:**  
+**Languages & Tools:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
@@ -25,18 +25,18 @@ Currently coding in the shadows and forging secret projects… but a few things 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-## 🚀 Featured Projects
+## Some stuff I’ve built
 
-| Project | Description | Link |
-|---------|------------|------|
-| CSViewer | Minecraft & tech file viewer | [GitHub](https://github.com/LunarBit-dev/CSViewer) |
-| Modrinth Auto Updater | Auto-update mods for Modrinth | [GitHub](https://github.com/LunarBit-dev/Modrinth-Auto-Updater) |
-| WXR-to-CSV | Convert WordPress exports to CSV | [GitHub](https://github.com/LunarBit-dev/WXR-to-CSV) |
-| Dupe Script | Efficient duplication tool | [GitHub](https://github.com/LexiCodesOfficial/Dupe-Script) |
+| Project | What it does | Link |
+|---------|--------------|------|
+| CSViewer | CSV File Viewer | [GitHub](https://github.com/LunarBit-dev/CSViewer) |
+| Modrinth Auto Updater | Keep mods updated automatically | [GitHub](https://github.com/LunarBit-dev/Modrinth-Auto-Updater) |
+| WXR-to-CSV | Turn WordPress exports into CSVs | [GitHub](https://github.com/LunarBit-dev/WXR-to-CSV) |
+| Dupe Script | Skript for duping on anarchy servers | [GitHub](https://github.com/LexiCodesOfficial/Dupe-Script) |
 
-## 🔮 Currently forging in secret
-A bunch of **hidden projects** under Lunarbit Studios — expect epicness.
+## Secret lab
+I’m also brewing some **hidden projects** at Lunarbit Studios — epic stuff in the works.
 
 ---
 
-🌌 Crafted with code, chaos, and cosmic vibes.
+Built with code, chaos, and a little bit of magic
